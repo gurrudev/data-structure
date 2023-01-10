@@ -1,1 +1,1 @@
-# data_structure using C++
+# data-structure using C++
