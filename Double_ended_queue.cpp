@@ -10,6 +10,7 @@ class DQNode{
 		DQNode *right;
 		DQNode *left;
 };
+
 //2. Queue templ
 class DQueue{
 	DQNode *front;
@@ -104,6 +105,7 @@ void DQueue::DequeueFront(){
 	
 	
 }
+
 void DQueue :: DequeueRear(){
 	if(Empty())
 	{
@@ -137,6 +139,7 @@ void DQueue::Display(){
 	}
 	cout<<"Null";
 }
+
 //4. menu
 int main(){ 
 	DQueue d;
