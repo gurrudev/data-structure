@@ -64,7 +64,7 @@ void PQueue :: Enqueue(int x,int p)
 		prev->next=t;
 		t->next = tmp;
 	}
-}//end of enqueue
+}//end of enqueue 
 
 int PQueue :: Empty()
 {
