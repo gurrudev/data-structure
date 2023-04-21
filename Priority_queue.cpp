@@ -12,7 +12,7 @@ class PQNode{
 //2. Queue Temp
 class PQueue{
 	PQNode *front;
-	
+	 
 	public:
 		PQueue(){
 			front = NULL;
