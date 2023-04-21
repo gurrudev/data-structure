@@ -11,7 +11,7 @@ class PQNode{
 }; 
 //2. Queue Temp
 class PQueue{
-	PQNode *front;
+	PQNode *front; 
 	 
 	public:
 		PQueue(){
