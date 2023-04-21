@@ -29,7 +29,7 @@ void PQueue :: Enqueue(int x,int p)
 	PQNode *t = new PQNode();
 	t->data = x;
 	t->priority = p;
-	t->next = NULL;
+	t->next = NULL; 
 	
 	//First node in PriorityQ
 	if(front == NULL)
