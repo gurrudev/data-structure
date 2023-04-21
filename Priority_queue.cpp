@@ -8,7 +8,7 @@ class PQNode{
 		int data;
 		int priority;
 		PQNode *next;
-};
+}; 
 //2. Queue Temp
 class PQueue{
 	PQNode *front;
