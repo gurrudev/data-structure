@@ -3,7 +3,7 @@
 #include<conio.h>
 #define MAX 4
 using namespace std;
-
+ 
 //2. Stack Template 
 class AStack{
 	int A[MAX];
